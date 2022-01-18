@@ -1,0 +1,11 @@
+
+name=Ankush   score=10    speed=60    level=2
+name=Ankush   score=10    speed=60    level=2
+name=ank   score=230    speed=46    level=2
+name=Adi   score=70    speed=35    level=1
+name=ank   score=60    speed=12    level=1
+name=rick   score=220    speed=42    level=1
+name=art   score=10    speed=30    level=1
+name=ar   score=60    speed=36    level=1
+name=ar   score=20    speed=40    level=2
+name=aw   score=10    speed=30    level=1
